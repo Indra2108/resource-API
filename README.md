@@ -6,3 +6,4 @@
 - https://xteam.xyz/
 - https://jibs.my.id/api
 - https://pokeapi.co/
+- https://github.com/public-apis/public-apis
